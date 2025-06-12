@@ -1,0 +1,8 @@
+aux_lr: 0.0001
+data_path: ./kodim05_gaussian_25/kodim05_gaussian_25__psnr_20.17__ssim_0.5306.npz
+gradient_clip_norm: 2.0
+img_channels: 3
+lmbda: 150
+net_lr: 0.005
+network_type: Conv
+patch_size: 8
