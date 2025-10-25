@@ -1,8 +1,9 @@
 
-# Zero-Shot Denoising via Neural Compression
+# Zero-Shot Denoising via Neural Compression (NeurIPS 2025 Spotlight)
 
 This repository contains implementation of zero-shot denoising via neural compression : **ZS-NCD**
 
+Ali Zafari*, Xi Chen* and Shirin Jalali. "Zero-shot Denoising via Neural Compression: Theoretical and Algorithmic Framework." Advances in Neural Information Processing Systems (NeurIPS 2025) [PDF](https://arxiv.org/pdf/2506.12693?)
 
 ## Initial Requirements
 
